@@ -1,0 +1,36 @@
+<package>
+	<id>de.saadat603.notificationhelper</id>
+	<name>Notification Helper</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>net.tateu.sendtestbulletin12</dependencies>
+	<shortDescription>Notifications to the Rescue!</shortDescription>
+	<descriptionlist>
+		<description>Create Fake Notifications from any Application! Comes with a standalone App.</description>
+		<description>Basically a GUI for tateu's SendTestBulletin12</description>
+		<description> </description>
+		<description>Have fun!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>UI</description>
+			<image>UI.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Sample</description>
+			<image>Sample.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

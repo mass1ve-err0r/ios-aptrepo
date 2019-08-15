@@ -1,0 +1,8 @@
+Origin: mass1ve_err0r
+Label: mass1ve_err0r
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Saadat's iOS Repository
