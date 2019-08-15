@@ -4,7 +4,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://apt.saadat.dev/assets/banners/Utilities",
+        "url": "https://apt.saadat.dev/assets/banners/Utilities.png",
         "title": "NotificationHelper",
         "package": "de.saadat603.notificationhelper",
         "hideShadow": false
