@@ -1,0 +1,13 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://apt.saadat.dev/assets/banners/Utilities",
+        "title": "NotificationHelper",
+        "package": "de.saadat603.notificationhelper",
+        "hideShadow": false
+    }
+  ]
+}

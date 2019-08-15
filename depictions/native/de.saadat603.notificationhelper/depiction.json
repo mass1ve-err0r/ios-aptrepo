@@ -1,0 +1,86 @@
+{
+    "tintColor": "#0657bb",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "title": "NotificationHelper",
+                    "useBottomMargin": false
+                },
+                {
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Notification to the Rescue!"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://apt.saadat.dev/assets/screenshots/nhelper/UI.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://apt.saadat.dev/assets/screenshots/nhelper/Sample.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": ""
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "> This depends on Tateu's SendTestBulletin12, install it from his repo first.\r\n> \r\n>  Tateu's repo: http://tateu.net/repo\r\n\r\n\r\n### Create fake Notifications from any App!\r\n\r\n##### Stuck in a awkward situation or up to shenanigans?\r\nThis allows you to create fake notifications from any app you have installed, fallbacks to Messages in case the App doesn't produce Notifications.\r\n\r\nBundled with an Application for fast access.\r\n\r\nHave fun!",
+                    "useBoldText": true,
+                    "title": "markdown-description",
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "0.1",
+                    "class": "DepictionTableTextView",
+                    "title": "Version"
+                },
+                {
+                    "text": "08-15-2019",
+                    "class": "DepictionTableTextView",
+                    "title": "Released"
+                },
+                {
+                    "text": "Free",
+                    "class": "DepictionTableTextView",
+                    "title": "Price"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Saadat Baig",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details"
+        }
+    ],
+    "class": "DepictionTabView",
+    "minVersion": "0.1",
+    "headerImage": "https://apt.saadat.dev/assets/banners/Utilities.png"
+}
