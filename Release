@@ -1,9 +1,12 @@
-Origin: Saadat's iOS Repository
-Label: Saadat's iOS Repository
+Origin: Saadat's Repository
+Label: Saadat's Repository
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Saadat's iOS Repository
+Description: Saadat's Repository
 
+SHA256:
+ c7ed22ed406f5ee909207a84882f9aa38731dda328d5eb2e97ce301901222cb8 520 Packages.bz2
+ 19ac0864b3e6d6989dc474edab330c2318a94b4afd3cbd3db1f2efa8f7fa1779 528 Packages.xz

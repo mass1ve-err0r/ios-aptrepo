@@ -1,13 +1,1 @@
-{
-  "class": "FeaturedBannersView",
-  "itemSize": "{296, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
-    {
-        "url": "https://apt.saadat.dev/assets/banners/Utilities.png",
-        "title": "NotificationHelper",
-        "package": "de.saadat603.notificationhelper",
-        "hideShadow": false
-    }
-  ]
-}
+{"class": "FeaturedBannersView", "itemSize": "{263, 148}", "itemCornerRadius": 8, "banners": [{"package": "de.saadat603.notificationhelper", "title": "NotificationHelper", "url": "https://apt.saadat.dev/assets/de.saadat603.notificationhelper/banner.png", "hideShadow": "false"}]}
